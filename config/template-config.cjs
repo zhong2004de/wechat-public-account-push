@@ -1,6 +1,5 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
-  USE_PASSAGE: 'push-deer',
   {
     id: 'PDU21346TEyB01bFaqjkO8GRXw9I4VbNfiXW3Vjxf',
     title: '亲爱的, 早上好',
